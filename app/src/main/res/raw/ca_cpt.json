@@ -1,0 +1,784 @@
+  {
+  "childs": [
+    {
+      "title": "Prospectus",
+      "link": "https://resource.cdn.icai.org/21322cpt-prospectus.pdf",
+      "is_file": true
+    },
+    {
+      "title": "Syllabus",
+      "link": "https://resource.cdn.icai.org/11885cpt_syllabus_210808.pdf",
+      "is_file": true
+    },
+    {
+      "title": "How to face CPT",
+      "link": "https://resource.cdn.icai.org/25176announ14930.pdf",
+      "is_file": true
+    },
+    {
+      "title": "Section-A : Fundamentals of Accounting",
+      "childs": [
+        {
+          "title": "Initial Pages ",
+          "link": "https://resource.cdn.icai.org/28899cpt-fa-sm-cp-inipage.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 1 - Accounting: An Introduction",
+          "link": "https://resource.cdn.icai.org/28890cpt-fa-sm-cp1-part1.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Accounting Concepts, Principles and Conventions",
+          "link": "http://www.mediafire.com/file/c4vtadl6ycj0a2o/SecACh1U2AccountingPrinciples.zip",
+          "is_file": true
+        },
+        {
+          "title": "Accounting Standards – Concepts, Objectives, Benefits",
+          "link": "http://www.mediafire.com/file/x4jsjqqq6ffg5wm/SecACh1U3AccountingStandards.zip",
+          "is_file": true
+        },
+        {
+          "title": "Accounting Policies ",
+          "link": "http://www.mediafire.com/file/wu63x40chx80c3f/SecACh1U4AccountingPolicies.zip",
+          "is_file": true
+        },
+        {
+          "title": "Accounting as a Measured Discipline - Valuation Principles, Accounting Estimates ",
+          "link": "http://www.mediafire.com/file/5l467gdcoj511vj/SecACh1U5AccountingMeasuredDiscipline.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 2 - Accounting Process",
+          "link": "https://resource.cdn.icai.org/28892cpt-fa-sm-cp2-part1.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Ledger",
+          "link": "http://www.mediafire.com/file/g86e5t5u0vpaaai/SecACh2U2Ledgers.zip",
+          "is_file": true
+        },
+        {
+          "title": "Trial Balance",
+          "link": "http://www.mediafire.com/file/3z42pbsx1so9n52/SecACh2U3TrialBlance.zip",
+          "is_file": true
+        },
+        {
+          "title": "Subsidiary Books Part 1",
+          "link": "http://www.mediafire.com/file/dystc1rtbx7bjxk/SecACh2U4SubsidiaryBooks.zip",
+          "is_file": true
+        },
+        {
+          "title": "Subsidiary Books Part 2",
+          "link": "http://www.mediafire.com/file/h5n126w6w588wiy/SecACh2U4SubsidiaryBooks.zip",
+          "is_file": true
+        },
+        {
+          "title": "Cash Book ",
+          "link": "http://www.mediafire.com/file/suy04utb7p5hyba/SecACh2U5CashBook.zip",
+          "is_file": true
+        },
+        {
+          "title": "Capital and Revenue Expenditures and Receipts ",
+          "link": "http://www.mediafire.com/file/ew10d51kc2e55uf/SecACh2U6Capital&RevenueExpenditure.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 3 - Bank Reconciliation Statement",
+          "link": "https://resource.cdn.icai.org/28895cpt-fa-sm-cp3.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 4 – Inventories ",
+          "link": "https://resource.cdn.icai.org/28896cpt-fa-sm-cp4.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 5 - Depreciation Accounting ",
+          "link": "https://resource.cdn.icai.org/28897cpt-fa-sm-cp5.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Depreciation Accounting Part 2",
+          "link": "http://www.mediafire.com/file/x84akhqsjikicd3/SecACh5DepreciationAccountingPart2.zip",
+          "is_file": true
+        },
+        {
+          "title": "Depreciation Accounting Part 3",
+          "link": "http://www.mediafire.com/file/krfqd1gxs0pu1ff/SecACh5DepreciationAccountingPart3.zip",
+          "is_file": true
+        },
+        {
+          "title": "Depreciation Accounting Part 4",
+          "link": "http://www.mediafire.com/file/qfl0mhh7qa1mhy5/SecACh5DepreciationAccountingPart4.zip",
+          "is_file": true
+        },
+        {
+          "title": "Depreciation Accounting Part 5",
+          "link": "http://www.mediafire.com/file/5zfja1xev9x8rqj/SecACh5DepreciationAccountingPart5.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 6 - Preparation of Final Accounts of Sole Proprietors",
+          "link": "https://resource.cdn.icai.org/28898cpt-fa-sm-cp6.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Final Accounts of Non-Manufacturing Entities Part 2",
+          "link": "http://www.mediafire.com/file/sg3l4dlmtbggj38/SecACh6U1FinalAccountsNonManufacturingEntitiesPart2.zip",
+          "is_file": true
+        },
+        {
+          "title": "Final Accounts of Non-Manufacturing Entities Part 3",
+          "link": "http://www.mediafire.com/file/aox0qi1nk5i1vhn/SecACh6U1FinalAccountsNonManufacturingEntitiesPart3.zip",
+          "is_file": true
+        },
+        {
+          "title": "Final Accounts of Manufacturing Entities ",
+          "link": "http://www.mediafire.com/file/d26kum4hxax4cc0/SecACh6U2FinalAccountsOfManufacturingEntities.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 7 - Accounting for Special Transactions",
+          "link": "https://resource.cdn.icai.org/28900cpt-fa-sm-cp7-part1.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Consignment Accounting Part 2 ",
+          "link": "http://www.mediafire.com/file/zzdcy46gycgtzbi/SecACh7U1ConsignmentPart2.zip",
+          "is_file": true
+        },
+        {
+          "title": "Consignment Accounting Part 3 ",
+          "link": "http://www.mediafire.com/file/5o7sp7k6pa4cwi1/SecACh7U1ConsignmentPart3.zip",
+          "is_file": true
+        },
+        {
+          "title": "Joint Venture Accounting",
+          "link": "http://www.mediafire.com/file/8oycypi26hyjxa4/SecAU2JointVentureV3.zip",
+          "is_file": true
+        },
+        {
+          "title": "Bills of Exchange and Promissory Notes Part 1",
+          "link": "http://www.mediafire.com/file/nx3ay0u51ypd3a7/SecACh7U3BOEBasicsP1.zip",
+          "is_file": true
+        },
+        {
+          "title": "Bills of Exchange and Promissory Notes Part 2",
+          "link": "http://www.mediafire.com/file/ur3ccu8fo6s4iw8/SecACh7U3BOEBasicsP2v2.zip",
+          "is_file": true
+        },
+        {
+          "title": "Bills of Exchange and Promissory Notes Part 3",
+          "link": "http://www.mediafire.com/file/djdyj3v65i3387w/SecACh7U3BOEBasicsP3.zip",
+          "is_file": true
+        },
+        {
+          "title": "Bills of Exchange and Promissory Notes Part 4",
+          "link": "http://www.mediafire.com/file/mziiytbzb364yci/SecACh7U3BOEBasicsP4.zip",
+          "is_file": true
+        },
+        {
+          "title": "Bills of Exchange and Promissory Notes Part 5",
+          "link": "http://www.mediafire.com/file/vjfftj7z35gcoaw/SecACh7U3BOEBasicsP5.zip",
+          "is_file": true
+        },
+        {
+          "title": "Bills of Exchange and Promissory Notes Part 6",
+          "link": "http://www.mediafire.com/file/dasdzi6cja72e4u/SecACh7U3BOEBasicsP6.zip",
+          "is_file": true
+        },
+        {
+          "title": "Sale of Goods on Approval or Return Basis",
+          "link": "http://www.mediafire.com/file/vc8jkf01whbk870/SecACh7U4SaleOfGoodsOnApprovalBasis.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 8 - Partnership Accounts",
+          "link": "https://resource.cdn.icai.org/28903cpt-fa-sm-cp8-part1.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Treatment of Goodwill in Partnership Accounts Part 1 ",
+          "link": "http://www.mediafire.com/file/xli71z40f0kyg4b/SecACh8U2TreatmentOfGoodwillPart1.zip",
+          "is_file": true
+        },
+        {
+          "title": "Treatment of Goodwill in Partnership Accounts Part 2 ",
+          "link": "http://www.mediafire.com/file/4fi5pnn6j4oh140/SecACh8U2TreatmentOfGoodwillPart2.zip",
+          "is_file": true
+        },
+        {
+          "title": "Admission of a New Partner",
+          "link": "http://www.mediafire.com/file/84j9ob95yjqtbl8/SecACh8U3.zip",
+          "is_file": true
+        },
+        {
+          "title": "Retirement of a Partner",
+          "link": "http://www.mediafire.com/file/rbnk737c3g13mt7/SecAFOACh8U4.zip",
+          "is_file": true
+        },
+        {
+          "title": "Retirement and Death of a Partner",
+          "link": "http://www.mediafire.com/file/44rccs3cd1zaszf/SecAFOACh8U4&5.zip",
+          "is_file": true
+        },
+        {
+          "title": "Death of a Partner",
+          "link": "http://www.mediafire.com/file/qaxhuzt41cej725/SecAFOACh8U5.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 9 - Company Accounts ",
+          "link": "https://resource.cdn.icai.org/28906cpt-fa-sm-cp9-part1.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Introduction to Issue, Forfeiture and Reissue of Shares ",
+          "link": "http://www.mediafire.com/file/purazlbwps8616t/SecACh9U2IssueForfeitureAndReissueOfSharesPart1.zip",
+          "is_file": true
+        },
+        {
+          "title": "Issue of Shares ",
+          "link": "http://www.mediafire.com/file/sccz2zvqqdcszc4/SecACh9U2IssueForfeitureAndReissueOfSharesPart2.zip",
+          "is_file": true
+        },
+        {
+          "title": "Forfeiture and Reissue of Shares",
+          "link": "http://www.mediafire.com/file/7jgvck1f5yjv8x4/SecACh9U2IssueForfeitureAndReissueOfSharesPart3.zip",
+          "is_file": true
+        },
+        {
+          "title": "Redemption of Preference Shares",
+          "link": "http://www.mediafire.com/file/55opjk8adqddbci/SecACh9U3RedemptionOfPreferenceShares.zip",
+          "is_file": true
+        },
+        {
+          "title": "Issue of Debentures ",
+          "link": "http://www.mediafire.com/download/ku1er65a7qzr2i7/SecACh9U4Debentures.zip",
+          "is_file": true
+        },
+        {
+          "title": "Issue of Debentures ",
+          "link": "http://www.mediafire.com/file/ahahgjed2q22glf/SecACh9U4IssuesOfDebentures.zip",
+          "is_file": true
+        }
+      ]
+    },
+    {
+      "title": "Section-B : Mercantile Laws",
+      "childs": [
+        {
+          "title": "Initial Pages ",
+          "link": "https://resource.cdn.icai.org/28835cpc-mclaws-initialpage.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 1 - The Indian Contract Act, 1872 ",
+          "link": "https://resource.cdn.icai.org/19634chapter-1.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Consideration",
+          "link": "http://www.mediafire.com/file/y3517ksx7f70wxq/SecBCh1U2Consideration.zip",
+          "is_file": true
+        },
+        {
+          "title": "Other Essential Elements of a Valid Contract Part 2 ",
+          "link": "http://www.mediafire.com/download/9gcv84y9lfvkspo/SecBCh1U3OtherEssentialElementsPart2.zip",
+          "is_file": true
+        },
+        {
+          "title": "Other Essential Elements of a Valid Contract Part 3 ",
+          "link": "http://www.mediafire.com/download/paxr398ijqoo25b/SecBCh1U3OtherEssentialElementsPart3.zip",
+          "is_file": true
+        },
+        {
+          "title": "Performance of Contract ",
+          "link": "http://www.mediafire.com/file/oz222mz332rp76t/SecBCh1U4PerformanceOfContract.zip",
+          "is_file": true
+        },
+        {
+          "title": "Breach of Contract ",
+          "link": "http://www.mediafire.com/file/pr2pa4arq20a1d2/SecBCh1U5BreachOfContract.zip",
+          "is_file": true
+        },
+        {
+          "title": "Contingent and Quasi-Contracts ",
+          "link": "http://www.mediafire.com/file/82e379p24n1tloy/SecBCh1U6ContingentAndQuasiContracts.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 2 - The Sale of Goods Act, 1930 ",
+          "link": "https://resource.cdn.icai.org/19635chapter-2.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Conditions and Warranties ",
+          "link": "http://www.mediafire.com/file/7821szafl1c07dc/SecBCh2U2Conditions&Warranties.zip",
+          "is_file": true
+        },
+        {
+          "title": "Transfer of Ownership ",
+          "link": "http://www.mediafire.com/file/dsqh2u3ak6y8uay/SecBCh3U3TransferofOwnership&DeliveryofGoods.zip",
+          "is_file": true
+        },
+        {
+          "title": "Unpaid Seller ",
+          "link": "http://www.mediafire.com/file/ae9ctxr92nzleu2/SecBCh2U4UnpaidSeller.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 3 - The Indian Partnership Act, 1932 ",
+          "link": "https://resource.cdn.icai.org/19636chapter-3.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Basics of Partnership –Part 2 ",
+          "link": "http://www.mediafire.com/file/3qgcdkyxjlab47i/SecBCh3U1GeneralNatureOfAPartnershipPart2.zip",
+          "is_file": true
+        },
+        {
+          "title": "Relations of Partners – Part 1 ",
+          "link": "http://www.mediafire.com/file/l1o8kn405szn6y2/SecBCh3U2RelationsOfPartnersPart1.zip",
+          "is_file": true
+        },
+        {
+          "title": "Relations of Partners - Part 2 ",
+          "link": "http://www.mediafire.com/file/rlg1uvxohv4n7yc/SecBCh3U2RelationsOfPartnersPart2.zip",
+          "is_file": true
+        },
+        {
+          "title": "Relations of Partners - Part 3 ",
+          "link": "http://www.mediafire.com/file/vixs81wtf4rbswg/SecBCh3U2RelationsOfPartnersPart3.zip",
+          "is_file": true
+        },
+        {
+          "title": "Registration and Dissolution of a Firm – Part 1 ",
+          "link": "http://www.mediafire.com/file/cxmiqmt6b0z740a/SecBCh3U3RegistrationAndDissolutionOfAFirmPart1.zip",
+          "is_file": true
+        },
+        {
+          "title": "Registration and Dissolution of a Firm – Part 2",
+          "link": "http://www.mediafire.com/download/daoza887b6z3j8a/SecBCh3U3RegistrationAndDissolutionOfAFirmPart2.zip",
+          "is_file": true
+        },
+        {
+          "title": "Registration and Dissolution of a Firm – Part 3",
+          "link": "http://www.mediafire.com/file/xug7q0deqb2wgw3/SecBCh3U3RegistrationAndDissolutionOfAFirmPart3.zip",
+          "is_file": true
+        }
+      ]
+    },
+    {
+      "title": "Section-C : General Economics",
+      "childs": [
+        {
+          "title": "Initial Pages ",
+          "link": "https://resource.cdn.icai.org/28844cpc-geco-cp-initialpages.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 1 - Introduction to Micro Economics ",
+          "link": "https://resource.cdn.icai.org/28845cpc-geco-cp1.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 2 - Theory of Demand and Supply",
+          "link": "https://resource.cdn.icai.org/28846cpc-geco-cp2a.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Theory of Consumer Behavior ",
+          "link": "http://www.mediafire.com/file/w0ah91lny66jt86/SecCU2Theoryofconsumerbehavior.zip",
+          "is_file": true
+        },
+        {
+          "title": "Law of Supply ",
+          "link": "http://www.mediafire.com/file/f1f9hlccyki3p9s/SecCCh2U3Supply.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 3 - Theory of Production and Cost",
+          "link": "https://resource.cdn.icai.org/28849cpc-geco-cp3.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Theory of Cost",
+          "link": "http://www.mediafire.com/file/9rn7b1yl3izfzex/SecCCh3U2TheoryOfCost.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 4 - Price Determination in Different Markets",
+          "link": "https://resource.cdn.icai.org/28850cpc-geco-cp4.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Meaning and Types of Markets",
+          "link": "http://www.mediafire.com/file/5jys7gh98a67bup/SecCCh4U1MeaningAndTypesOfMarket.zip",
+          "is_file": true
+        },
+        {
+          "title": "Determination of Prices ",
+          "link": "http://www.mediafire.com/file/72jl7v5nwuug1g1/SecCCh4U2DeterminationOfPrices.zip",
+          "is_file": true
+        },
+        {
+          "title": "Price-Output Determination ",
+          "link": "http://www.mediafire.com/file/8vi6hl3bjk67zdt/SecCCh4U3PriceDeterminationUnderDifferentMarket.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 5 - Indian Economy – A Profile",
+          "link": "https://resource.cdn.icai.org/28851cpc-geco-cp5.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Role of Different Sectors in India ",
+          "link": "http://www.mediafire.com/file/rwsikpi70bvmmb6/SecCU2RoleofDifferentSectors.zip",
+          "is_file": true
+        },
+        {
+          "title": "National Income in India ",
+          "link": "http://www.mediafire.com/file/v4z7twbq3rqhc58/SecCCh5U3NationalIncomeInIndia.zip",
+          "is_file": true
+        },
+        {
+          "title": "Basic Understanding of Tax System in India ",
+          "link": "http://www.mediafire.com/file/z2693bw24rfvss7/SecCCh5U4BasicUnderstandingTaxsysteminIndia.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 6 - Select Aspects of Indian Economy ",
+          "link": "https://resource.cdn.icai.org/28852cpc-geco-cp6a.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Population - Part 1 ",
+          "link": "http://www.mediafire.com/file/odzc53q94dpa8dm/SecCCh6U1PopulationPart1.zip",
+          "is_file": true
+        },
+        {
+          "title": "Population - Part 2 ",
+          "link": "http://www.mediafire.com/file/l9emeoi8x9e9oz8/SecCCh6U1PopulationPart2.zip",
+          "is_file": true
+        },
+        {
+          "title": "Unemployment - Part 1 ",
+          "link": "http://www.mediafire.com/file/zjn59tgleo4794x/SecCCh6U3UnemploymUnemplo1.zip",
+          "is_file": true
+        },
+        {
+          "title": "Unemployment - Part 2 ",
+          "link": "http://www.mediafire.com/file/630db6rf328wj68/SecCCh6U3UnemploymentPart2.zip",
+          "is_file": true
+        },
+        {
+          "title": "Infrastructural Challenges ",
+          "link": "http://www.mediafire.com/file/dxwr7oyhdxzrrdp/SecCCh6U4InfrastructuralChallenges.zip",
+          "is_file": true
+        },
+        {
+          "title": "Inflation - Part 1 ",
+          "link": "http://www.mediafire.com/file/godoingnwqnghvh/SecCCh6U5InflationPart1.zip",
+          "is_file": true
+        },
+        {
+          "title": "Inflation - Part 2 ",
+          "link": "http://www.mediafire.com/file/9s38a8graz9jefo/SecCCh6U5InflationPart2.zip",
+          "is_file": true
+        },
+        {
+          "title": "Budget and Fiscal Deficit in India ",
+          "link": "http://www.mediafire.com/file/aw80bhwc1nbb1c5/SecCCh6U6BudgetAndFiscalDeficitInIndia.zip",
+          "is_file": true
+        },
+        {
+          "title": "Balance of Payments ",
+          "link": "http://www.mediafire.com/file/bmq6nln4azweur8/SecCCh6U7BalanceOfPayments.zip",
+          "is_file": true
+        },
+        {
+          "title": "External Debt ",
+          "link": "http://www.mediafire.com/file/wjutw4jxy63q2u9/SecCCh6U8ExternalDebt.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 7 - Economic Reforms in India ",
+          "link": "https://resource.cdn.icai.org/28855cpc-geco-cp7.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Liberalization, Privatization, and Disinvestment ",
+          "link": "http://www.mediafire.com/file/5a140ace0mhua66/SecCCh7U2LiberalizationPrivatization&Disinvestment.zip",
+          "is_file": true
+        },
+        {
+          "title": "Globalization ",
+          "link": "http://www.mediafire.com/file/lpdbbiz3r6qgcht/SecCCh7U3Globalisation.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 8 - Money and Banking",
+          "link": "https://resource.cdn.icai.org/28856cpc-geco-cp8.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Commercial Banks ",
+          "link": "http://www.mediafire.com/file/gu66yrsbsf79j5k/SecCCh8U2CommercialBanks.zip",
+          "is_file": true
+        },
+        {
+          "title": "Reserve Bank of India ",
+          "link": "http://www.mediafire.com/file/xi3xbdtdkpz1ap4/SecCCh8U3RBI.zip",
+          "is_file": true
+        }
+      ]
+    },
+    {
+      "title": "Section-D : Quantitative Aptitude",
+      "childs": [
+        {
+          "title": "Initial Pages ",
+          "link": "https://resource.cdn.icai.org/28889cpt-qa-inipage.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 1 - Ratio and Proportion, Indices, Logarithms ",
+          "link": "https://resource.cdn.icai.org/19646chapter-1.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Logarithms Part 2 ",
+          "link": "http://www.mediafire.com/file/iy202kct6b19y7p/SecDCh1RatioAndProportionIndicesAndLogarithmPart2.zip",
+          "is_file": true
+        },
+        {
+          "title": "Logarithms Part 3 ",
+          "link": "http://www.mediafire.com/file/4e2f6iar1962nit/SecDCh1RatioAndProportionIndicesAndLogarithmPart3.zip",
+          "is_file": true
+        },
+        {
+          "title": "Logarithms Part 4 ",
+          "link": "http://www.mediafire.com/file/n69wa1p3lrecork/SecDCh1RatioAndProportionIndicesLogarithmsPart4.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 2 – Equations",
+          "link": "https://resource.cdn.icai.org/19647chapter-2.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 3 – Inequalities ",
+          "link": "https://resource.cdn.icai.org/19648chapter-3.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 4 - Simple and Compound Interest including Annuity – Applications ",
+          "link": "https://resource.cdn.icai.org/19649chapter-4.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 5 - Basic Concepts of Permutations and Combinations ",
+          "link": "https://resource.cdn.icai.org/19650chapter-5.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 6 - Sequence and Series – Arithmetic and Geometric Progressions",
+          "link": "https://resource.cdn.icai.org/19651chapter-6.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Sequence and Series - Part 2",
+          "link": "http://www.mediafire.com/file/23o577p1c3e1fx4/SecDCh6Sequence&SeriesP2.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 7 - Sets, Functions and Relations ",
+          "link": "https://resource.cdn.icai.org/19652chapter-7.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Functions & Relations",
+          "link": "http://www.mediafire.com/file/3dixcrylxz634wa/SecDCh7Function&Relation.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 8 - Limits and Continuity - Intuitive Approach",
+          "link": "https://resource.cdn.icai.org/19653chapter-8.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Limits and Continuity - Part 2",
+          "link": "http://www.mediafire.com/file/3y9ekpvp6xj4216/SecDCh8LimitsAndContinuityIntutiveApproachPart2.zip",
+          "is_file": true
+        },
+        {
+          "title": "Limits and Continuity - Part 3",
+          "link": "http://www.mediafire.com/file/y3ljdukdsysbk68/SecDCh8LimitsAndContinuityIntutiveApproachPart3.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 9 - Basic Concepts of Differential and Integral Calculus ",
+          "link": "https://resource.cdn.icai.org/19654chapter-9.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 10 - Statistical Description of Data",
+          "link": "https://resource.cdn.icai.org/19655chapter-10.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 11 - Measures of Central Tendency and Dispersion ",
+          "link": "https://resource.cdn.icai.org/19656chapter-11.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Measures of Central Tendency",
+          "link": "http://www.mediafire.com/file/aytqtcrt8iscmbi/SecDCh11MeasuresOfCentralTendency.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 12 - Correlation and Regression",
+          "link": "https://resource.cdn.icai.org/19657chapter-12.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Regression",
+          "link": "http://www.mediafire.com/file/424ot3prbu2g3gv/SecDCh12Regression.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 13 - Probability and Expected Value by Mathematical Expectation ",
+          "link": "https://resource.cdn.icai.org/19658chapter-13.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Probability - MCQ",
+          "link": "http://www.mediafire.com/file/1ah4lvi05f4jeyg/SecDCh13QuantitativeAptitudeProbabilityMCQ.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 14 - Theoretical Distributions ",
+          "link": "https://resource.cdn.icai.org/19659chapter-14.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 15 - Sampling Theory ",
+          "link": "https://resource.cdn.icai.org/19660chapter-15.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Sampling Theory – Part 2",
+          "link": "http://www.mediafire.com/file/g20vuvhfomx09fk/SecDCh15SamplingtheoryP2.zip",
+          "is_file": true
+        },
+        {
+          "title": "Sampling Theory – Part 3 ",
+          "link": "http://www.mediafire.com/file/n4uhp7nhr64h3ek/secDCh15SamplingTheoryP3.zip",
+          "is_file": true
+        },
+        {
+          "title": "Chapter 16 - Index Numbers ",
+          "link": "https://resource.cdn.icai.org/19661chapter-16.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Appendices",
+          "link": "https://resource.cdn.icai.org/19662APPENDICES.pdf",
+          "is_file": true
+        }
+      ]
+    },
+    {
+      "title": "Assess Yourself for CPT",
+      "childs": [
+        {
+          "title": "Model Test Papers",
+          "childs": [
+            {
+              "title": "Part 1",
+              "link": "https://resource.cdn.icai.org/21933mtp-cptvolu1-part1.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Part 2",
+              "link": "https://resource.cdn.icai.org/21934mtp-cptvolu1-part2.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Part 3",
+              "link": "https://resource.cdn.icai.org/21935mtp-cptvolu1-part3.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Part 4",
+              "link": "https://resource.cdn.icai.org/21936mtp-cptvolu1-part4.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Part 1",
+              "link": "https://resource.cdn.icai.org/21937mtp-cptvolu2-part1.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Part 2",
+              "link": "https://resource.cdn.icai.org/21938mtp-cptvolu2-part2.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Part 3",
+              "link": "https://resource.cdn.icai.org/21939mtp-cptvolu2-part3.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Part 4",
+              "link": "https://resource.cdn.icai.org/21940mtp-cptvolu2-part4.pdf",
+              "is_file": true
+            }
+          ]
+        },
+        {
+          "title": "Mock Test Papers",
+          "childs": [
+            {
+              "title": "Session - I (English Medium)",
+              "link": "https://resource.cdn.icai.org/50338cptjune18-sr1-engs1.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Session - I (Hindi Medium)",
+              "link": "https://resource.cdn.icai.org/50344cptune18-sr1-hins1.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Session - II (English Medium)",
+              "link": "https://resource.cdn.icai.org/50339cptjune18-sr1-engs2.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Session - II (Hindi Medium)",
+              "link": "https://resource.cdn.icai.org/50345cptjune18-sr1-hins2.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Session - I",
+              "link": "https://resource.cdn.icai.org/50342cptjune18-ans-sr1-ses1.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Session - II",
+              "link": "https://resource.cdn.icai.org/50343cptjune18-ans-sr1-ses2.pdf",
+              "is_file": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Feedback Form",
+      "link": "https://resource.cdn.icai.org/29795feedbackbos-19372.doc",
+      "is_file": true
+    }
+  ]
+}

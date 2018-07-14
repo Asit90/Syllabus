@@ -1,0 +1,789 @@
+{
+  "childs": [
+    {
+      "title": "Syllabus",
+      "link": "https://resource.cdn.icai.org/45570bos35676-foundation.pdf",
+      "is_file": true
+    },
+    {
+      "title": "Paper-1: Principles and Practice of Accounting",
+      "childs": [
+        {
+          "title": "Module 1",
+          "childs": [
+            {
+              "title": "Initial Pages",
+              "link": "https://resource.cdn.icai.org/46593bosfnd-p1-mod1init.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 1: Theoretical Framework",
+              "childs": [
+                {
+                  "title": "Unit 1: Meaning and Scope of Accounting",
+                  "link": "https://resource.cdn.icai.org/46595bosfnd-p1-cp1-u1.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 2: Accounting Concepts, Principles And Conventions",
+                  "link": "https://resource.cdn.icai.org/46596bosfnd-p1-cp1-u2.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 3: Accounting Terminology – Glossary",
+                  "link": "https://resource.cdn.icai.org/46597bosfnd-p1-cp1-u3.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 4: Capital And Revenue Expenditures and Receipts ",
+                  "link": "https://resource.cdn.icai.org/46598bosfnd-p1-cp1-u4.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 5: Contingent Assets and Contingent Liabilities",
+                  "link": "https://resource.cdn.icai.org/46599bosfnd-p1-cp1-u5.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 6: Accounting Policies",
+                  "link": "https://resource.cdn.icai.org/46600bosfnd-p1-cp1-u6.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 7: Accounting as a Measurement Discipline – Valuation Principles, Accounting Estimates",
+                  "link": "https://resource.cdn.icai.org/46601bosfnd-p1-cp1-u7.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 8: Accounting Standards",
+                  "link": "https://resource.cdn.icai.org/46602bosfnd-p1-cp1-u8.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 9: Indian Accounting Standards",
+                  "link": "https://resource.cdn.icai.org/46603bosfnd-p1-cp1-u9.pdf",
+                  "is_file": true
+                }
+              ]
+            },
+            {
+              "title": "Chapter 2: Accounting Process",
+              "childs": [
+                {
+                  "title": "Unit 1: Basic Accounting Procedures - Journal Entries",
+                  "link": "https://resource.cdn.icai.org/46604bosfnd-p1-cp2-u1.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 2: Ledgers",
+                  "link": "https://resource.cdn.icai.org/46605bosfnd-p1-cp2-u2.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 3: Trial Balance",
+                  "link": "https://resource.cdn.icai.org/46606bosfnd-p1-cp2-u3.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 4: Subsidiary Books",
+                  "link": "https://resource.cdn.icai.org/46607bosfnd-p1-cp2-u4.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 5: Cash Book",
+                  "link": "https://resource.cdn.icai.org/46608bosfnd-p1-cp2-u5.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 6: Rectification of Errors",
+                  "link": "https://resource.cdn.icai.org/46609bosfnd-p1-cp2-u6.pdf",
+                  "is_file": true
+                }
+              ]
+            },
+            {
+              "title": "Chapter 3: Bank Reconciliation Statement",
+              "link": "https://resource.cdn.icai.org/46610bosfnd-p1-cp3.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 4: Inventories",
+              "link": "https://resource.cdn.icai.org/46611bosfnd-p1-cp4.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 5: Concept and Accounting of Depreciation",
+              "link": "https://resource.cdn.icai.org/46612bosfnd-p1-cp5.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 6: Accounting for Special Transactions",
+              "childs": [
+                {
+                  "title": "Unit 1: Bill Of Exchange and Promissory Notes",
+                  "link": "https://resource.cdn.icai.org/46613bosfnd-p1-cp6-u1.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 2: Sale of Goods on Approval or Return Basis",
+                  "link": "https://resource.cdn.icai.org/46614bosfnd-p1-cp6-u2.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 3: Consignment",
+                  "link": "https://resource.cdn.icai.org/46615bosfnd-p1-cp6-u3.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 4: Joint Ventures",
+                  "link": "https://resource.cdn.icai.org/46616bosfnd-p1-cp6-u4.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 5: Royalty Accounts",
+                  "link": "https://resource.cdn.icai.org/46617bosfnd-p1-cp6-u5.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 6: Average Due Date",
+                  "link": "https://resource.cdn.icai.org/46618bosfnd-p1-cp6-u6.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 7: Account Current",
+                  "link": "https://resource.cdn.icai.org/46631bosfnd-p1-cp6-u7.pdf",
+                  "is_file": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Module 2",
+          "childs": [
+            {
+              "title": "Initial Pages",
+              "link": "https://resource.cdn.icai.org/46594bosfnd-p1-mod2init.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 7: Preparation of Final Accounts of Sole Proprietors",
+              "childs": [
+                {
+                  "title": "Unit 1: Final Accounts of Non-Manufacturing Entities",
+                  "link": "https://resource.cdn.icai.org/46619bosfnd-p1-cp7-u1.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 2: Final Accounts of Manufacturing Entities",
+                  "link": "https://resource.cdn.icai.org/46620bosfnd-p1-cp7-u2.pdf",
+                  "is_file": true
+                }
+              ]
+            },
+            {
+              "title": "Chapter 8: Partnership Accounts",
+              "childs": [
+                {
+                  "title": "Unit 1: Introduction to Partnership Accounts",
+                  "link": "https://resource.cdn.icai.org/46621bosfnd-p1-cp8-u1.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 2: Treatment of Goodwill in Partnership Accounts",
+                  "link": "https://resource.cdn.icai.org/46622bosfnd-p1-cp8-u2.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 3: Admission of a New Partner",
+                  "link": "https://resource.cdn.icai.org/46623bosfnd-p1-cp8-u3.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 4: Retirement of a Partner",
+                  "link": "https://resource.cdn.icai.org/46624bosfnd-p1-cp8-u4.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 5: Death of a Partner",
+                  "link": "https://resource.cdn.icai.org/46625bosfnd-p1-cp8-u5.pdf",
+                  "is_file": true
+                }
+              ]
+            },
+            {
+              "title": "Chapter 9: Financial Statements of Not-for-Profit Organizations",
+              "link": "https://resource.cdn.icai.org/46626bosfnd-p1-cp9.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 10: Company Accounts",
+              "childs": [
+                {
+                  "title": "Unit 1: Introduction to Company Accounts",
+                  "link": "https://resource.cdn.icai.org/46627bosfnd-p1-cp10-u1.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 2: Issue, Forfeiture and Re-Issue of Shares",
+                  "link": "https://resource.cdn.icai.org/46628bosfnd-p1-cp10-u2.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 3: Issue of Debentures",
+                  "link": "https://resource.cdn.icai.org/46629bosfnd-p1-cp10-u3.pdf",
+                  "is_file": true
+                }
+              ]
+            },
+            {
+              "title": "Chapter 11: Basic Accounting Ratios",
+              "link": "https://resource.cdn.icai.org/46630bosfnd-p1-cp11.pdf",
+              "is_file": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paper-2: Business Laws and Business Correspondence and Reporting",
+      "childs": [
+        {
+          "title": "Paper-2: Sec-A: Business Laws",
+          "childs": [
+            {
+              "title": "Initial Pages",
+              "link": "https://resource.cdn.icai.org/46632bosfnd-p2-seca-init.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 1: The Indian Contract Act, 1872",
+              "childs": [
+                {
+                  "title": "Unit 1: Nature of Contracts",
+                  "link": "https://resource.cdn.icai.org/46633bosfnd-p2-seca-cp1-u1.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 2: Consideration",
+                  "link": "https://resource.cdn.icai.org/46634bosfnd-p2-seca-cp1-u2.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 3: Other Essential Elements of a Contract",
+                  "link": "https://resource.cdn.icai.org/46635bosfnd-p2-seca-cp1-u3.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 4: Performance of Contract",
+                  "link": "https://resource.cdn.icai.org/46636bosfnd-p2-seca-cp1-u4.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 5: Breach of Contract and its Remedies",
+                  "link": "https://resource.cdn.icai.org/46637bosfnd-p2-seca-cp1-u5.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 6: Contingent and Quasi Contracts",
+                  "link": "https://resource.cdn.icai.org/46638bosfnd-p2-seca-cp1-u6.pdf",
+                  "is_file": true
+                }
+              ]
+            },
+            {
+              "title": "Chapter 2: The Sale of Goods Act, 1930",
+              "childs": [
+                {
+                  "title": "Unit 1: Formation of the Contract of Sale",
+                  "link": "https://resource.cdn.icai.org/46639bosfnd-p2-seca-cp2-u1.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 2: Conditions &amp; Warranties",
+                  "link": "https://resource.cdn.icai.org/46640bosfnd-p2-seca-cp2-u2.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 3: Transfer of Ownership and Delivery of Goods",
+                  "link": "https://resource.cdn.icai.org/46641bosfnd-p2-seca-cp2-u3.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 4: Unpaid Seller",
+                  "link": "https://resource.cdn.icai.org/46642bosfnd-p2-seca-cp2-u4.pdf",
+                  "is_file": true
+                }
+              ]
+            },
+            {
+              "title": "Chapter 3: The Indian Partnership Act, 1932",
+              "childs": [
+                {
+                  "title": "Unit 1: General Nature of a Partnership",
+                  "link": "https://resource.cdn.icai.org/46643bosfnd-p2-seca-cp3-u1.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 2: Relations of Partners",
+                  "link": "https://resource.cdn.icai.org/46644bosfnd-p2-seca-cp3-u2.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit 3: Registration and Dissolution of a Firm ",
+                  "link": "https://resource.cdn.icai.org/46645bosfnd-p2-seca-cp3-u3.pdf",
+                  "is_file": true
+                }
+              ]
+            },
+            {
+              "title": "Chapter 4: The Limited Liability Partnership",
+              "link": "https://resource.cdn.icai.org/46646bosfnd-p2-seca-cp4.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 5: The Companies Act, 2013",
+              "link": "https://resource.cdn.icai.org/46647bosfnd-p2-seca-cp5.pdf",
+              "is_file": true
+            }
+          ]
+        },
+        {
+          "title": "Paper-2: Sec-B: Business Correspondence and Reporting",
+          "childs": [
+            {
+              "title": "Initial Pages",
+              "link": "https://resource.cdn.icai.org/46650bosfnd-p2-secb-init.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 1: Communication",
+              "link": "https://resource.cdn.icai.org/46651bosfnd-p2-secb-cp1.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 2: Sentence Types and Direct-Indirect, Active-Passive Speech",
+              "link": "https://resource.cdn.icai.org/46652bosfnd-p2-secb-cp2.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 3: Vocabulary",
+              "link": "https://resource.cdn.icai.org/46653bosfnd-p2-secb-cp3.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 4: Comprehension Passages",
+              "link": "https://resource.cdn.icai.org/46654bosfnd-p2-secb-cp4.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 5: Note Making",
+              "link": "https://resource.cdn.icai.org/46655bosfnd-p2-secb-cp5.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 6: Introduction to Basics of Writing",
+              "link": "https://resource.cdn.icai.org/46656bosfnd-p2-secb-cp6.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 7: Precis Writing",
+              "link": "https://resource.cdn.icai.org/46657bosfnd-p2-secb-cp7.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 8: Article Writing",
+              "link": "https://resource.cdn.icai.org/46658bosfnd-p2-secb-cp8.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 9: Report Writing",
+              "link": "https://resource.cdn.icai.org/46659bosfnd-p2-secb-cp9.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 10: Writing Formal Letters and Official Communication",
+              "childs": [
+                {
+                  "title": "Part I: Formal Letters",
+                  "link": "https://resource.cdn.icai.org/46660bosfnd-p2-secb-cp10-p1.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Part II: Official Communication",
+                  "link": "https://resource.cdn.icai.org/46661bosfnd-p2-secb-cp10-p2.pdf",
+                  "is_file": true
+                }
+              ]
+            },
+            {
+              "title": "Chapter 11: Writing Formal Mails",
+              "link": "https://resource.cdn.icai.org/46662bosfnd-p2-secb-cp11.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 12: Resume Writing",
+              "link": "https://resource.cdn.icai.org/46663bosfnd-p2-secb-cp12.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 13: Meetings",
+              "link": "https://resource.cdn.icai.org/46664bosfnd-p2-secb-cp13.pdf",
+              "is_file": true
+            }
+          ]
+        },
+        {
+          "title": "Question Papers",
+          "childs": [
+            {
+              "title": "May, 2018",
+              "link": "https://resource.cdn.icai.org/50208bos39812fndqp2-may18.pdf",
+              "is_file": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paper-3: Business Mathematics and Logical Reasoning &amp; Statistics",
+      "childs": [
+        {
+          "title": "Initial Pages",
+          "link": "https://resource.cdn.icai.org/46667bosfnd-p3-init.pdf",
+          "is_file": true
+        },
+        {
+          "title": "Part-A: Business Mathematics",
+          "childs": [
+            {
+              "title": "Chapter 1: Ratio and Proportion, Indices, Logarithms",
+              "link": "https://resource.cdn.icai.org/46668bosfnd-p3-cp1.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 2: Equations and Matrices",
+              "childs": [
+                {
+                  "title": "Unit I: Equations",
+                  "link": "https://resource.cdn.ica.org/46669bosfnd-p3-cp2-u1.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit II: Matrices",
+                  "link": "https://resource.cdn.ica.org/46670bosfnd-p3-cp2-u2.pdf",
+                  "is_file": true
+                }
+              ]
+            },
+            {
+              "title": "Chapter 3: Linear Inequalities",
+              "link": "https://resource.cdn.icai.org/46671bosfnd-p3-cp3.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 4: Time Value of Money",
+              "link": "https://resource.cdn.icai.org/46672bosfnd-p3-cp4.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 5: Basic Concepts of Permutations and Combinations",
+              "link": "https://resource.cdn.icai.org/46673bosfnd-p3-cp5.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 6: Sequence and Series - Arithmetic and Geometric Progressions",
+              "link": "https://resource.cdn.icai.org/46674bosfnd-p3-cp6.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 7: Sets, Functions and Relations",
+              "link": "https://resource.cdn.icai.org/46675bosfnd-p3-cp7.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 8: Basic Concepts of Differential and Integral Calculus",
+              "childs": [
+                {
+                  "title": "(A) Differential Calculus",
+                  "link": "https://resource.cdn.icai.org/46676bosfnd-p3-cp8a.PDF",
+                  "is_file": true
+                },
+                {
+                  "title": "(B) Integral Calculus",
+                  "link": "https://resource.cdn.icai.org/46677bosfnd-p3-cp8b.PDF",
+                  "is_file": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Part-B: Logical Reasoning",
+          "childs": [
+            {
+              "title": "Chapter 9: Number Series, Coding and Decoding and Odd Man Out",
+              "link": "https://resource.cdn.icai.org/46678bosfnd-p3-cp9.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 10: Direction Tests",
+              "link": "https://resource.cdn.icai.org/46679bosfnd-p3-cp10.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 11: Seating    Arrangements",
+              "link": "https://resource.cdn.icai.org/46680bosfnd-p3-cp11.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 12: Blood Relations",
+              "link": "https://resource.cdn.icai.org/46681bosfnd-p3-cp12.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 13: Syllogism",
+              "link": "https://resource.cdn.icai.org/46682bosfnd-p3-cp13.pdf",
+              "is_file": true
+            }
+          ]
+        },
+        {
+          "title": "Part-C: Statistics",
+          "childs": [
+            {
+              "title": "Chapter 14: Statistical Description of Data",
+              "link": "https://resource.cdn.icai.org/46683bosfnd-p3-cp14.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 15: Measures of Central Tendency and Dispersion",
+              "childs": [
+                {
+                  "title": "Unit I: Measures of Central Tendency",
+                  "link": "https://resource.cdn.icai.org/46684bosfnd-p3-cp15-u1.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit II: Dispersion",
+                  "link": "https://resource.cdn.icai.org/46685bosfnd-p3-cp15-u2.pdf",
+                  "is_file": true
+                }
+              ]
+            },
+            {
+              "title": "Chapter 16 : Probability",
+              "link": "https://resource.cdn.icai.org/46686bosfnd-p3-cp16.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 17: Theoretical Distributions",
+              "link": "https://resource.cdn.icai.org/46687bosfnd-p3-cp17.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 18: Correlation And Regression",
+              "link": "https://resource.cdn.icai.org/46688bosfnd-p3-cp18.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 19: Index Number and Time Series",
+              "childs": [
+                {
+                  "title": "Unit I: Index Numbers",
+                  "link": "https://resource.cdn.icai.org/46689bosfnd-p3-cp19-u1.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit II: Time Series",
+                  "link": "https://resource.cdn.icai.org/46690bosfnd-p3-cp19-u2.pdf",
+                  "is_file": true
+                }
+              ]
+            },
+            {
+              "title": "Appendices",
+              "link": "https://resource.cdn.icai.org/46691bosfnd-p3-app.pdf",
+              "is_file": true
+            }
+          ]
+        },
+        {
+          "title": "Mock Test Paper",
+          "childs": [
+            {
+              "title": "Question",
+              "link": "https://resource.cdn.icai.org/49326bos39065mtpfndp3.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Answer",
+              "link": "https://resource.cdn.icai.org/49319bos39065sugansmay18p3.pdf",
+              "is_file": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paper-4: Business Economics and Business and Commercial Knowledge",
+      "childs": [
+        {
+          "title": "Paper-4: Part-I: Business Economics",
+          "childs": [
+            {
+              "title": "Initial Pages",
+              "link": "https://resource.cdn.icai.org/46692bosfnd-p4-init.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 1: Nature &amp; Scope of Business Economics",
+              "childs": [
+                {
+                  "title": "Unit I: Introduction",
+                  "link": "https://resource.cdn.icai.org/46693bosfnd-p4-cp1-u1.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit II: Basic Problems of an Economy &amp; Role of Price Mechanism",
+                  "link": "https://resource.cdn.icai.org/46694bosfnd-p4-cp1-u2.pdf",
+                  "is_file": true
+                }
+              ]
+            },
+            {
+              "title": "Chapter 2: Theory of Demand and Supply",
+              "childs": [
+                {
+                  "title": "Unit I: Law of Demand and Elasticity of Demand",
+                  "link": "https://resource.cdn.icai.org/46695bosfnd-p4-cp2-u1.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit II: Theory of Consumer Behaviour",
+                  "link": "https://resource.cdn.icai.org/46696bosfnd-p4-cp2-u2.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit III: Supply",
+                  "link": "https://resource.cdn.icai.org/46697bosfnd-p4-cp2-u3.pdf",
+                  "is_file": true
+                }
+              ]
+            },
+            {
+              "title": "Chapter 3: Theory of Production and Cost",
+              "childs": [
+                {
+                  "title": "Unit I: Theory of Production",
+                  "link": "https://resource.cdn.icai.org/46698bosfnd-p4-cp3-u1.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit II: Theory of Cost",
+                  "link": "https://resource.cdn.icai.org/46699bosfnd-p4-cp3-u2.pdf",
+                  "is_file": true
+                }
+              ]
+            },
+            {
+              "title": "Chapter 4: Meaning and Types of Markets",
+              "childs": [
+                {
+                  "title": "Unit I: Meaning and Types of Markets",
+                  "link": "https://resource.cdn.icai.org/46700bosfnd-p4-cp4-u1.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit II: Determination of Prices",
+                  "link": "https://resource.cdn.icai.org/46701bosfnd-p4-cp4-u2.pdf",
+                  "is_file": true
+                },
+                {
+                  "title": "Unit III: Price Output Determination under Different Market Forms",
+                  "link": "https://resource.cdn.icai.org/46702bosfnd-p4-cp4-u3.pdf",
+                  "is_file": true
+                }
+              ]
+            },
+            {
+              "title": "Chapter 5: Business Cycles",
+              "link": "https://resource.cdn.icai.org/46703bosfnd-p4-cp5.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Glossary",
+              "link": "https://resource.cdn.icai.org/46704bosfnd-p4-glossary.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Self-Examination Questions",
+              "link": "https://resource.cdn.icai.org/46705bosfnd-p4-selfeq.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Mock Test Question Paper",
+              "link": "https://resource.cdn.icai.org/49327bos39065mtpfndp4a.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Mock Test Question Answer",
+              "link": "https://resource.cdn.icai.org/49320bos39065sugansmay18p4a.pdf",
+              "is_file": true
+            }
+          ]
+        },
+        {
+          "title": "Paper-4 Part-II: Business and Commercial Knowledge",
+          "childs": [
+            {
+              "title": "Initial Pages",
+              "link": "https://resource.cdn.icai.org/46706bosfnd-p4-part2-init.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 1: Introduction to Business &amp; BCK",
+              "link": "https://resource.cdn.icai.org/46707bosfnd-p4-part2-cp1.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 2: Business Environment",
+              "link": "https://resource.cdn.icai.org/46708bosfnd-p4-part2-cp2.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 3: Business Organizations",
+              "link": "https://resource.cdn.icai.org/46709bosfnd-p4-part2-cp3.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 4: Government Policies for Business Growth",
+              "link": "https://resource.cdn.icai.org/46710bosfnd-p4-part2-cp4.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 5: Organizations Facilitating Business",
+              "link": "https://resource.cdn.icai.org/46711bosfnd-p4-part2-cp5.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Chapter 6: Common Business Terminologies",
+              "link": "https://resource.cdn.icai.org/46712bosfnd-p4-part2-cp6.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Mock Test Question Paper",
+              "link": "https://resource.cdn.icai.org/49328bos39065mtpfndp4b.pdf",
+              "is_file": true
+            },
+            {
+              "title": "Mock Test Answer",
+              "link": "https://resource.cdn.icai.org/49321bos39065sugansmay18p4b.pdf",
+              "is_file": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
